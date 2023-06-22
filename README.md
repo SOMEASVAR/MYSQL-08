@@ -69,5 +69,8 @@ FROM Student
 FULL JOIN StudentCourse 
 ON StudentCourse.ROLL_NO = Student.ROLL_NO;
 ```
+# Output:
+![image](https://github.com/SOMEASVAR/MYSQL-08/assets/93434149/0f2d0575-f8d7-4625-b556-2409ccf08232)
+
 # Result:
 Therefore we have successfully implemented the keyword-Case ,Cross,Join ,full outer join.
